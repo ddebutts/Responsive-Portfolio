@@ -233,7 +233,7 @@ input[type=submit] {
 /*Small Screens*/
 @media screen and (max-width: 640px) {
   .container {
-    max-width: 50%;  
+    max-width: 50%;   
   }
 }
 
