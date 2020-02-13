@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("https://img.freepik.com/free-photo/wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg?size=626&ext=jpg");
 }
 
 * {
@@ -14,7 +14,7 @@ body {
 
 .container {
   width: 100%;
-  max-width: 960px;
+  max-width: 980px;
   margin: 0 auto;
   clear: both;
 }
@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: darkslategrey;
 }
 
 h1 {
@@ -59,7 +59,7 @@ h3 {
   margin: 0 0 30px;
   overflow: auto;
   color: #ffffff;
-  background: #ffffff;
+  background: black;
   border-bottom: 2px solid #cccccc;
 }
 
@@ -71,10 +71,10 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: #ffffff;
+  color: lightgray;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: darkslategrey;
 }
 
 nav {
@@ -105,7 +105,7 @@ footer {
   color: #ffffff;
   color: #cccccc;
   text-align: center;
-  background: #666666;
+  background: black;
   border-top: 8px solid #4aaaa5;
   height: 50px;
 }
@@ -130,7 +130,7 @@ h3, h2 {
   max-width: 960px;
   padding: 30px;
   margin: 0 0 40px;
-  background: #ffffff;
+  background:lightblue;
   border: 1px solid #dddddd;
 }
 
